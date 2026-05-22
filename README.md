@@ -5,6 +5,7 @@ Welcome to my GitHub! This is a collection of things I build, break, fix, and so
 - 🌱 I’m currently learning Vietnamese and Spanish, and exploring multi-modal models as part of my ongoing research interests
 - 💬 I enjoy chatting about life, research, creative coding, and the future of tech and art.
 - **Fun fact**: I came to the U.K. from Belgium to study, and somehow never left. Still blaming the research opportunities (and maybe the scones).
+- **Open source contribtions**: You can find my open-source contributions on my other account [mshooter-ilm](https://github.com/mshooter-ilm)
 
 ### Have a look
 ---
